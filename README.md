@@ -22,7 +22,10 @@ This is a memory game using React. The application's UI is split into four compo
 
 <h3>Technologies Used:</h3>
 
-React
-ES6
-Bootstrap
-CSS
+- React
+
+- ES6
+
+- Bootstrap
+
+- CSS
