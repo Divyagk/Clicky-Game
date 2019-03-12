@@ -6,7 +6,7 @@ This is a memory game using React. The application's UI is split into four compo
 
 <h3>Getting Started</h3>
 
-
+https://divyagk.github.io/Clicky-Game/
 
 <h3>Instructions</h3>
 
